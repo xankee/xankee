@@ -1,0 +1,83 @@
+img {
+    height: 50px;
+    width: 50px;
+}
+
+header {
+    border-bottom: 2px dashed rgb(29, 193, 243);
+    margin-bottom: 20px;
+    color: #00125f;
+}
+
+body {
+    text-align: center;
+    font-family: system-ui;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.aboutme-future img {
+    width: 400px;
+    height: 200px;
+}
+
+.aboutme-now img {
+    width: 220px;
+    height: 200px;
+}
+
+.aboutme-past img {
+    width: 220px;
+    height: 200px;
+}
+
+.aboutme-past {
+    border: 3px solid #ffffff;
+    margin-bottom: 20px;
+    background-image: linear-gradient(180deg, #7d4159 0, #773959 12.5%, #6f3159 25%, #652859 37.5%, #591f59 50%, #4b185a 62.5%, #3a135b 75%, #24125d 87.5%, #00125f 100%);
+}
+
+.aboutme-past:hover{
+    border: 3px solid #ffffff;
+    border-radius: 24px;
+}
+
+.aboutme-now {
+    border: 3px solid #ffffff;
+    margin-bottom: 20px;
+    background-image: linear-gradient(180deg, #7d4159 0, #773959 12.5%, #6f3159 25%, #652859 37.5%, #591f59 50%, #4b185a 62.5%, #3a135b 75%, #24125d 87.5%, #00125f 100%);
+}
+
+
+.aboutme-now:hover {
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 24px;
+}
+
+.aboutme-future:hover {
+    border: 3px solid #ffffff;
+    border-radius: 24px;
+}
+
+.aboutme-future {
+    border: 3px solid #ffffff;
+    margin-bottom: 20px;
+    background-image: linear-gradient(180deg, #7d4159 0, #773959 12.5%, #6f3159 25%, #652859 37.5%, #591f59 50%, #4b185a 62.5%, #3a135b 75%, #24125d 87.5%, #00125f 100%);
+}
+
+footer {
+    background: linear-gradient(45deg,#fbff00, #0246c5, #ff0101);
+    width: 100%;
+    height: 150px;
+}
+
+.valorantgoo {
+    width: 250px;
+    height: 150px;
+}
+
+.youtubee {
+    width: 200px;
+    height: 150px;
+}
